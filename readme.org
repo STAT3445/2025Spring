@@ -19,7 +19,7 @@
   - Grader: Shinyoo Park, shinyoo.park@uconn.edu
 
 - Instructor: HaiYing (Ben) Wang
-  - Office Hours: TuTh 2:00 - 3:00 PM, Aust 319, or by appointment
+  - Office Hours: Th 9:30 - 10:30 AM, Aust 319, or by appointment
   - Email: haiying.wang@uconn.edu
 
 - Textbook: Mathematical Statistics with Applications, 7th edition, by Wackerly,
